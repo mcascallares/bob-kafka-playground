@@ -9,10 +9,11 @@ server that access a local CP deployment
 Check .bob/mcp.json for the Bob MCP configuration.
 
 
-## Confluent AI Capabilities
+## Resources
 
 - https://github.com/confluentinc/mcp-confluent
 - https://github.com/confluentinc/agent-skills
+- https://bob.ibm.com/docs/ide
 
 
 ## Running CP Services
