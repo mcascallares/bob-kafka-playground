@@ -26,7 +26,7 @@ docker compose up -d
 
 ### Listing and registering schemas
 
-![image](/screenshots/registering_schema.png)
+![image](/assets/registering_schema.png)
 
 ## License
 
