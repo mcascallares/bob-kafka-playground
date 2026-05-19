@@ -22,6 +22,11 @@ cd cp-all-in-one
 docker compose up -d
 ```
 
+## Examples
+
+### Listing and registering schemas
+
+![image](/screenshots/registering_schema.png)
 
 ## License
 
