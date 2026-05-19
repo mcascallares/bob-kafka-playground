@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "Confluent MCP": {
+      "command": "npx -y @confluentinc/mcp-confluent",
+      "args": ["--transport", "stdio"],
+      "env": {
+        "BOOTSTRAP_SERVERS": "localhost:9092",
+        "SCHEMA_REGISTRY_ENDPOINT": "http://localhost:8081", 
+        "KAFKA_REST_ENDPOINT": "http://localhost:8082"
+      }
+    }
+  }
+}
