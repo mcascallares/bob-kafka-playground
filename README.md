@@ -14,6 +14,7 @@ Check .bob/mcp.json for the Bob MCP configuration.
 - https://github.com/confluentinc/mcp-confluent
 - https://github.com/confluentinc/agent-skills
 - https://bob.ibm.com/docs/ide
+- https://www.confluent.io/blog/ai-developer-tools-mcp-server-agent-skills-ga/
 
 
 ## Running CP Services
