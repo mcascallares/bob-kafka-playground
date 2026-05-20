@@ -1,8 +1,13 @@
 {
   "mcpServers": {
     "confluent-mcp": {
-      "command": "npx -y @confluentinc/mcp-confluent",
-      "args": ["--transport", "stdio"],
+      "command": "npx",
+      "args": [
+        "-y",
+        "@confluentinc/mcp-confluent",
+        "--transport", 
+        "stdio"
+      ],
       "env": {
         "BOOTSTRAP_SERVERS": "localhost:9092",
         "SCHEMA_REGISTRY_ENDPOINT": "http://localhost:8081", 
