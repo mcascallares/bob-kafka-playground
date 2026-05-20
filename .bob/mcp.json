@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "Confluent MCP": {
+    "confluent-mcp": {
       "command": "npx -y @confluentinc/mcp-confluent",
       "args": ["--transport", "stdio"],
       "env": {
