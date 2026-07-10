@@ -5,14 +5,15 @@
       "args": [
         "-y",
         "@confluentinc/mcp-confluent@latest",
-        "--transport", 
+        "--transport",
         "stdio"
       ],
       "env": {
         "BOOTSTRAP_SERVERS": "localhost:9092",
-        "SCHEMA_REGISTRY_ENDPOINT": "http://localhost:8081", 
+        "SCHEMA_REGISTRY_ENDPOINT": "http://localhost:8081",
         "KAFKA_REST_ENDPOINT": "http://localhost:8082"
-      }
+      },
+      "disabled": false
     }
   }
 }
