@@ -33,6 +33,10 @@ podman compose up -d
 
 ## Examples
 
+### Listing topics
+
+![image](/assets/listing_topics.png)
+
 ### Listing and registering schemas
 
 ![image](/assets/registering_schema.png)
