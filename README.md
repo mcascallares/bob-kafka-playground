@@ -28,7 +28,7 @@ docker compose up -d
 
 ```
 cd cp-all-in-one
-Podman compose up -d
+podman compose up -d
 ```
 
 ## Examples
