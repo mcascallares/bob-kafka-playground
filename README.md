@@ -17,11 +17,18 @@ Check .bob/mcp.json for the Bob MCP configuration.
 - https://www.confluent.io/blog/ai-developer-tools-mcp-server-agent-skills-ga/
 
 
-## Running CP Services
+## Running CP Services with Docker
 
 ```
 cd cp-all-in-one
 docker compose up -d
+```
+
+## Running CP Services with Podman (experimental)
+
+```
+cd cp-all-in-one
+Podman compose up -d
 ```
 
 ## Examples
